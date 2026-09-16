@@ -1,4 +1,4 @@
-# Outcome Roadmap & Trade-off Memo: [Fable / Meridian / your initiative]
+# Outcome Roadmap & Trade-off Memo: [Fable]
 
 > Module 2 · Prioritization & Roadmapping for Product Leaders, ★ Deliverable 2
 >
@@ -10,9 +10,9 @@ _A multi-team roadmap organized by **outcomes**, not feature lists. Show how nea
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
+| Now (0 to 3 mo) | Bet that users who experience meaningful, personalized wellness value early will be substantially more likely to return and develop an ongoing relationship with the advisor| Bet that removing barriers to effective participation will enable more users to engage consistently and achieve better wellness outcomes. |Bet that increasing the frequency and continuity of meaningful wellness interactions will strengthen the habit of using the advisor and materially improve retention |
+| Next (3 to 6 mo) | Build a personalized wellness-advisory loop that continuously adapts recommendations to each user's behavior, context and progress. | Create habitual monthly wellness engagement by making the advisor increasingly valuable between moments of active need. | Prove that engagement with the advisor translates into measurable improvements in mental wellness |
+| Later (6 to 12 mo) | •	Bet: Use predictive behavioral intelligence to anticipate wellness needs and proactively intervene before users seek support. | •	Bet: Make health-insurance partnerships a scaled distribution and affordability engine for the product. | •	Bet: Expand from mental wellness into a broader connected physical, mental and lifestyle wellness ecosystem. |
 
 _[screenshot or shareable link to your roadmap visual]_
 
