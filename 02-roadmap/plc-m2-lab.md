@@ -19,4 +19,4 @@ It should actually be a Rock because it aligns with the organization strategic g
 - **If someone who had never seen your strategy read the Now column, would they know what problem you are solving this quarter?:** Yes
 
 ## Save your roadmap
-- **Where did you save your roadmap? (link or file):** https://github.com/progressivemind/product-leadership-final/blob/main/02-roadmap/Roadmap.docx
+- **Where did you save your roadmap? (link or file):** 02-roadmap/outcome-roadmap.md
