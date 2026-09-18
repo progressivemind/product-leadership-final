@@ -23,11 +23,11 @@ _[screenshot or shareable link to your roadmap visual]_
 
 _What did you sequence first, what did you push out, and what did you cut entirely, and why? Use WSJF / cost of delay reasoning where it helps._
 
-> I chose to sequence … first because …
+> I chose to sequence timely intervention, personalized engagement, and accessibility first because they have the strongest combination of customer impact, strategic alignment, and urgency. Timely intervention directly targets KR2, while personalized engagement supports KR1 and establishes the behavioral data and learning needed for the later predictive-AI strategy.
 >
-> I pushed out … because …
+> I pushed out predictive personalization, the AI wellness companion, seamless intervention moments, adaptive wellness journeys, and proactive engagement because their value depends on foundations that are not yet sufficiently proven. Building sophisticated prediction or AI orchestration before establishing which interventions actually reduce stress risks increasing complexity without improving outcomes.
 >
-> I cut … entirely because …
+> I cut eature-level commitments that do not represent a meaningful customer or business outcome entirely because they would turn the roadmap back into a delivery checklist. In particular, I would not treat “crisis mode flow,” “AI-generated check-in prompts,” or “WCAG compliance” as roadmap items in themselves. They remain delivery mechanisms within broader strategic bets. This keeps scarce capacity focused on changing user outcomes rather than maximizing feature output.
 
 ## Link to full artifact
 
