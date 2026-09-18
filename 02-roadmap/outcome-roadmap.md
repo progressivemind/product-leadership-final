@@ -17,9 +17,6 @@ _A multi-team roadmap organized by **outcomes**, not feature lists. Show how nea
 | Next (3 to 6 mo) | 2. Bet on an AI wellness companion: Create a continuous, context-aware relationship that adapts guidance based on the user's evolving behavior and wellbeing patterns. | AI/Personalization + Wellbeing Product + UX/Design| Users consistently return to the companion and report that its guidance is relevant and useful.|
 | Next (3 to 6 mo) | 3. Bet on seamless intervention moments: Embed wellbeing support into existing daily routines rather than requiring users to deliberately start a wellness program. | Wellbeing Product + UX/Design + Engineering| A growing proportion of successful interventions occur with minimal deliberate effort from the user.|
 
-| Later (6 to 12 mo) | Bet on an individual stress prediction model: Identify rising stress before users consciously recognize it. | AI/Personalization + Data Science |Model identifies elevated-risk periods with sufficient accuracy to enable useful intervention.|
-| Later (6 to 12 mo) | Bet on a continuously personalized AI companion: Coordinate wellbeing support around the user's evolving needs across their daily life. | AI/Personalization + Wellbeing Product |Users perceive the companion as increasingly relevant over time and demonstrate sustained engagement.|
-
 _[screenshot or shareable link to your roadmap visual]_
 
 ## 2. Trade-off memo
