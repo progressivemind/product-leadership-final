@@ -14,7 +14,7 @@
 - **The first sentence of the conversation I need to have is:** "As you know, we aim at being the best digital bank in country and that requires that we have the most fitted people for each role.. Based on your competencies, I would like to put at your consideration the role...."
 
 ## AI role-play
-- **After you step out: what did the role-play change about how you will open this conversation for real?:** _(not filled in)_
+- **After you step out: what did the role-play change about how you will open this conversation for real?:** _The role-play suggested to be more specific/concise observing the SBI principle about opening the conversation_
 
 ## Refine and complete your charter
 - **What We Own. What this team owns.:** Product strategy and execution: Onboarding, saving accounts, lending, digital platforms, cards & acquiring and insurance.
