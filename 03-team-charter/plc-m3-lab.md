@@ -1,4 +1,7 @@
-# Lead and Develop High-Performing Teams, Module 3 Lab
+# Team Charter: [Fable]
+
+> Module 3 · Lead and Develop High-Performing Teams, ★ Deliverable 3
+>
 
 ## Name the situation
 - **Who they are (role, not name), what you have observed, and how long it has been happening.:** I have a team member who is responsible for Lending products. As I recently joined the team, I have observed that the person is willing to take on leadership roles and that is what the person was promised. However, that did not happen so far. Therefore, the person looks demotivated and normally shies from executing some initiatives.
