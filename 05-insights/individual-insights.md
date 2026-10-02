@@ -6,18 +6,18 @@
 
 ## Friction points
 
-_What was the hardest part of building this strategy, and how did you work through it?_
+_The hardest was on team charter because I had to reflect on my own behavior and think about how to overcome a real challenge with my team members. I tried to be more realistic and put something that I could consider in near future._
 
 > _____
 
 ## Key learnings
 
-_A few surprising discoveries or insights you gained from the course overall._
+_Communicate more on product strategies, mainly on outcomes rather on outputs only.._
 
 > _____
 
 ## "Aha!" moment
 
-_Your main "aha" moment during the project process._
+_The simplicity of the used framework and tools. The line up on how product strategies can be built._
 
 > _____
